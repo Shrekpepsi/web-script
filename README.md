@@ -3,8 +3,8 @@ A general bash script to find response time for any web url/endpoint as per prop
 
 # important note to remember
 
-1-Need to add input from txt file so add all the url/endpoints to websites in a txt file first(urlhits.txt).
+1-Need to add input from txt file so add all the url/endpoints of websites u need in a txt file(urlhits.txt).
 
-2-Using the following command first to remove carriage to prevent error:
+2-Using the following command in linux shell first to remove carriage to prevent error:
 
-# tr -d '\r' < urlhits.txt  > urlresponse.t
+ tr -d '\r' < urlhits.txt  > urlresponse.txt
