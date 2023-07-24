@@ -7,4 +7,4 @@ A general bash script to find response time for any web url/endpoint as per prop
 
 2-Using the following command in linux shell first to remove carriage to prevent error:
 
- tr -d '\r' < urlhits.txt  > urlresponse.txt
+      tr -d '\r' < urlhits.txt  > urlresponse.txt
