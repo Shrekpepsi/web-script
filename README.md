@@ -1,5 +1,5 @@
 # Web Response Checker Bash Script
-A general bash script to find response time for any web url/endpoint as per proper format.
+A general bash script to find response time for any microservice or web url/endpoint as per proper format.
 
 # important note to remember
 
